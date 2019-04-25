@@ -7,7 +7,37 @@
 		<key>WeatherForecast.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>6</integer>
+		</dict>
+		<key>WeatherForecastTests 2.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+		<key>WeatherForecastTests.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>29889CED2268AD380063DD57</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>29889D012268AD390063DD57</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>29889D0C2268AD390063DD57</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
